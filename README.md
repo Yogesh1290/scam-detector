@@ -37,10 +37,8 @@ A sophisticated Next.js web application that leverages cutting-edge artificial i
 ## 🚀 Demo
 
 ### 🌐 **Live Demo**
-[**Try the Live Application →**](https://your-deployment-url.vercel.app)
+[**Try the Live Application →**](https://scam-detector-three.vercel.app/)
 
-### 📹 **Demo Video**
-[**Watch Demo Video →**](https://your-demo-video-link.com)
 
 ## 🛠️ AI Tools & APIs Used
 
@@ -65,7 +63,7 @@ Before you begin, ensure you have the following installed:
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/gemini-spam-detector.git
+git clone https://github.com/Yogesh1290/scam-detector.git
 cd gemini-spam-detector
 ```
 
